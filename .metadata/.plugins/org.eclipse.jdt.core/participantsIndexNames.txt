@@ -1,0 +1,97 @@
+INDEX VERSION 1.131
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2012209954.index
+\Example_16\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\150760779.index
+\ExampleBai44\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1167958781.index
+\ExampleBai11\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1835991041.index
+\ExampleBai20_Update\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2986771601.index
+\DemoDisplayusingJSP\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3361587228.index
+\ExampleBai11\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\271007820.index
+\DemoDisplayusingJSP\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1305543711.index
+\ExampleBai44\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1886393518.index
+\ExampleBai12\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1442118285.index
+\ExampleBai18\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\373306821.index
+\ExampleBai19\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2447834758.index
+\ExampleBai18\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3217232620.index
+\ExampleBai12\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1590958581.index
+\Example\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1850143298.index
+\ExampleBai13_Chuan\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3758421808.index
+\ExampleBai44\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3590030496.index
+\ExampleBai13\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1307325059.index
+\Example_19\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2345492053.index
+\ExampleBai16\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3167037843.index
+\ExampleBai16\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2630389106.index
+\Example_18.1\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3597944944.index
+\ExampleBai45\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\610688643.index
+\ExampleBai13\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1738685555.index
+\ExampleBai45\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1735526590.index
+\ExampleBai13_Chuan\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1802032397.index
+\Example\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\776392283.index
+\ExampleBai17\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\91978835.index
+\Example_19\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2161770989.index
+\Example_18.1\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2076480595.index
+\ExampleBai20_\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\807476286.index
+\Example_22\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3231091579.index
+\ExampleBai43\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2641390714.index
+\ExampleBai20\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3461461730.index
+\ExampleBai19\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3013520564.index
+\ExampleBai47\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\978310895.index
+\ExampleBai47\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\961146256.index
+\ExampleBai43\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1687899389.index
+\ExampleBai13\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2665361468.index
+\Example_18\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2791176863.index
+\Example_22\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\33322939.index
+\ExampleBai12\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\1326554338.index
+\ExampleBai16\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3835463015.index
+\ExampleBai20_\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2035090853.index
+\Example_19\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\3941776956.index
+\ExampleBai20_Update\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\2924821105.index
+\ExampleBai11\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\660628988.index
+\ExampleBai17\src
+C:\Users\TAN\Desktop\Web Java\.metadata\.plugins\org.eclipse.jst.jsp.core\jspsearch\411776506.index
+\Example\src

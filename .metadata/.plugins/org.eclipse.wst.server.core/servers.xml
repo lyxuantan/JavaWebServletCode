@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<servers>
+  <server auto-publish-setting="2" auto-publish-time="1" configuration-id="/Servers/Tomcat v9.0 Server at localhost-config" deployDir="wtpwebapps" hostname="localhost" id="Tomcat v9.0 Server at localhost" name="Tomcat v9.0 Server at localhost" runtime-id="Apache Tomcat v9.0" server-type="org.eclipse.jst.server.tomcat.90" server-type-id="org.eclipse.jst.server.tomcat.90" start-timeout="45" stop-timeout="15" testEnvironment="true" timestamp="48">
+    <list key="modules" value0="ExampleBai20_Update::org.eclipse.jst.jee.server:ExampleBai20_Update::jst.web::4.0" value1="ExampleBai43::org.eclipse.jst.jee.server:ExampleBai43::jst.web::4.0" value2="ExampleBai44::org.eclipse.jst.jee.server:ExampleBai44::jst.web::4.0" value3="ExampleBai45::org.eclipse.jst.jee.server:ExampleBai45::jst.web::4.0" value4="ExampleBai47::org.eclipse.jst.jee.server:ExampleBai47::jst.web::3.1"/>
+  </server>
+</servers>

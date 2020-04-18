@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?><project-modules id="moduleCoreId" project-version="1.5.0">
+    <wb-module deploy-name="ExampleBai13_Chuan">
+        <wb-resource deploy-path="/" source-path="/WebContent" tag="defaultRootSource"/>
+        <wb-resource deploy-path="/WEB-INF/classes" source-path="/src"/>
+        <property name="context-root" value="ExampleBai13_Chuan"/>
+        <property name="java-output-path" value="/ExampleBai13_Chuan/build/classes"/>
+    </wb-module>
+</project-modules>

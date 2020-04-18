@@ -1,0 +1,9 @@
+127.0.0.1 - - [16/Mar/2020:20:53:26 +0700] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:20:53:29 +0700] "GET /ExampleBai13_Chuan/ HTTP/1.1" 200 712
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:20:53:30 +0700] "GET /favicon.ico HTTP/1.1" 404 720
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:20:53:38 +0700] "POST /ExampleBai13_Chuan/HomeController HTTP/1.1" 404 746
+127.0.0.1 - - [16/Mar/2020:21:23:07 +0700] "GET / HTTP/1.1" 404 709
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:21:23:08 +0700] "GET /ExampleBai13_Chuan/ HTTP/1.1" 200 712
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:21:23:11 +0700] "POST /ExampleBai13_Chuan/HomeController HTTP/1.1" 200 725
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:21:27:06 +0700] "GET /ExampleBai13_Chuan/ HTTP/1.1" 200 712
+0:0:0:0:0:0:0:1 - - [16/Mar/2020:21:27:12 +0700] "POST /ExampleBai13_Chuan/HomeController HTTP/1.1" 200 725
